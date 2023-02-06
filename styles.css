@@ -1,0 +1,24 @@
+.container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.title {
+  font-size: 2em;
+  margin-bottom: 2em;
+}
+
+.button-container {
+  margin-bottom: 2em;
+}
+
+.primary-button {
+  background-color: blue;
+  color: white;
+  padding: 1em 2em;
+  border-radius: 3px;
+  border: none;
+  font-size: 1em;
+  cursor: pointer;
+}
